@@ -1,13 +1,4 @@
-mailjs
-service
-service_p35wjbh
 
-template
-template_3m83qac
-
-public key eErT4QDYhQX3X16gg
-
-private key WviU173KsEXkVZCkfKi9r
 
 # Getting Started with Create React App
 
